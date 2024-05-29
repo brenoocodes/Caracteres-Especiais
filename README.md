@@ -7,4 +7,4 @@ Depois você poderá selecionar uma pasta destino, que será depositado os arqui
 Você pode ver todo esse programa no arquivo main.py, **para usar esse programa não necessário dar pip em nenhuma bibloteca, todas elas veêm instalados com python**
 
 
-No entanto é muito recomendado que você crie um ambiente virtual para esse projeto **Caso queira fazer um executavel**, vou passar passo a passo, do que você precisa para fazer um executável, no entanto o arquivo 
+No entanto é muito recomendado que você crie um ambiente virtual para esse projeto **Caso queira fazer um executavel**, vou passar passo a passo, do que você precisa para fazer um executável, no entanto o arquivo **mysetup.exe** é um instalador, 100% pronto para você instalar no seu computador o programa.
